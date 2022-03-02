@@ -8,7 +8,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.829);
+    background: purple;
 }
 
 nav {
@@ -38,7 +38,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: orange;
+    color: pink;
 }
 
 .bio {
